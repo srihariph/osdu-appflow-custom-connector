@@ -19,7 +19,7 @@ This custom example OSDU Appflow connector supports both source and destination 
 The process for deploying and using the Appflow custom connector is as follows:
 
 1. Implement and deploy Lambda functions to be used as custom connectors.
-2. Registering Custom Connector using AppFlow Console or AWS
+2. Registering Custom Connector using AppFlow Console or AWS CLI
 3. Creating one or more [connections](https://docs.aws.amazon.com/appflow/latest/userguide/connections.html) using the registered connector.
 4. Creating one or more [flow](https://docs.aws.amazon.com/ja_jp/appflow/latest/userguide/flows.html) using registered connector and connections
 
